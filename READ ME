@@ -1,0 +1,10 @@
+Dear all
+
+Please create exactly the path same as the system and put in the file being enhanced, bug fixed & etc...
+example:
+filename: order-form.js allocate in \pos\js\app-admin\
+The path should be: ==> fast-shop/pos/js/pms-admin/order-form.js
+
+All scripts related to database will put in under "sql".
+
+After you read and understand, please reply below.
